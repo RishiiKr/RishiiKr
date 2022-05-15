@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RishiiKr
+- 👋 Hi, I’m Rishi
 - 👀 I’m interested in programming.
-- 💪🏻 My strength is python.
-- 🌱 I’m a website creator and designer, I code websites using flask.
-- 🙋🏻‍♂️ I’m know about game development in pygame.
+- 💪🏻 My strength is in python coding.
+- 🌱 I’m a website creator, designer and a backend programmer(Flask).
+- 🙋🏻‍♂️ I’m know pretty well about game development in pygame and databse handling.
 - 💞️ I’m currently learning frontend programming (expertise).
 - 📫 Contact:
 <br> email- rishiikumar.info@gmail.com 
